@@ -13,7 +13,7 @@ This microservice allows you to search for Animal Crossing villagers based on sp
 
     ```bash
     git clone https://github.com/crandquist/AC-Microservice
-    cd animal-crossing-microservice
+    cd ac-microservice
     ```
 
 2. Install dependencies:
