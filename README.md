@@ -33,7 +33,7 @@ This microservice allows you to search for Animal Crossing villagers based on sp
 4. Run the Search Program:
 
     ```bash
-    python search_program.py
+    python search.py
     ```
 
     The search program will prompt you to enter search terms and display matching villagers.
