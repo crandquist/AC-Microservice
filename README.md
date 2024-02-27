@@ -12,7 +12,7 @@ This microservice allows you to search for Animal Crossing villagers based on sp
 1. Clone this repository:
 
     ```bash
-    git clone https://github.com/yourusername/animal-crossing-microservice.git
+    git clone https://github.com/crandquist/AC-Microservice
     cd animal-crossing-microservice
     ```
 
